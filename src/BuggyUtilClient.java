@@ -4,9 +4,9 @@ public class BuggyUtilClient {
         // First test case in Main
         System.out.println("Example 1: Make My Username");
         System.out.println("In: first = " + "\"Sean\"" +
-                ", last = " + "\"Flannery\"");
+                ", last = " + "\"Joshua\"");
         System.out.println("Out: " +
-        StringUtils.makePurdueUsername("Sean", "Flannery"));
+        StringUtils.makePurdueUsername("Sean", "Joshua"));
     }
 }
 
